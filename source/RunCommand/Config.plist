@@ -44,7 +44,7 @@
 	<key>Extension Description</key>
 	<string>Run the selected text as a terminal command. Supports both Terminal and iTerm2. (Now updated for iTerm2 v2.9.)</string>
 	<key>Extension Identifier</key>
-	<string>com.pilotmoon.popclip.extension.rtc</string>
+	<string>com.masterpeace21.popclip.extension.rtc</string>
 	<key>Extension Image File</key>
 	<string>RTC.png</string>
 	<key>Extension Name</key>
